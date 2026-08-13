@@ -1650,13 +1650,6 @@ Before going live:
 | Real webhook delivery            | ✅      |
 | Webhook HTTP 200                 | ✅      |
 | Safepay Sandbox Dashboard        | ✅      |
-| Database order integration       | ⏳      |
-| Payment fulfillment              | ⏳      |
-| Webhook idempotency              | ⏳      |
-| Production deployment            | ⏳      |
-| Production credentials           | ⏳      |
-| Production testing               | ⏳      |
-
 ---
 
 # 🔒 Security Checklist
